@@ -8,4 +8,5 @@ class Carte:
         self._mano1 = list()
         self._mano2 = list()
         self._scarti = list()
+        try
         
